@@ -11,6 +11,8 @@ const paths = {
   scripts: ['src/**/*.{ts,tsx}', '!src/**/demo/*.{ts,tsx}'], // 脚本文件路径
 };
 
+
+
 /**
  * 编译脚本文件
  * @param {string} babelEnv babel环境变量
